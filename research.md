@@ -5,30 +5,52 @@ title: Research
 
 <h1 class="page-title">Research</h1>
 
-My research focuses on **educational interventions in low- and lower-middle-income countries**, with emphasis on peer learning, school reform, and socioemotional development.
-
 ## Working Papers
 
-### Learning with Peers: Peer Tutoring in Rural India
-*with Bhargava, Jha, Kaur, and Tripathi*
+### Learning with Peers: Experimental Evidence from a Scaled-up Peer Tutoring Intervention in Rural India
+*Nikhil Kumar, Palaash Bhargava, Madhavi Jha, Dashleen Kaur, Tarang Tripathi*
 
-We study a peer tutoring program in Bihar public primary schools. Results show math gains of 0.15-0.16 standard deviations for both tutors and learners.
+Draft available upon request | [Pre-registration](https://www.socialscienceregistry.org/trials/15527)
 
-### Whole School Reform & Adolescent Development
-*with de Barros, Campos Quintero, El Amrani Mida, Glewwe, and Léphine*
+This study examines peer tutoring in Bihar's public primary schools, finding math performance gains of 0.15-0.16 standard deviations for both learners and tutors.
 
-A study of 200 Moroccan schools examining the effects of comprehensive school reform on adolescent outcomes, finding a 31.4% reduction in dropout rates.
+### Beyond Basics: Whole School Reform and Early Adolescent Development
+*Nikhil Kumar, Andreas de Barros, Alejandra Campos Quintero, Najiba El Amrani Mida, Paul Glewwe, Laure Léphine*
 
-### Socioemotional Skills Development
-*Conditionally accepted at Journal of Development Economics*
+Draft available upon request | [Pre-registration](https://osf.io/g54kd)
+
+Research on government-led whole-school reform in Moroccan secondary schools examining dropout reduction and academic/socioemotional outcomes.
+
+### Developing Socioemotional Skills in Early Adolescence: Evidence from Morocco's Public Lower Secondary Schools
+*Nikhil Kumar, Andreas de Barros, Alejandra Campos Quintero, Paul Glewwe, Laure Léphine*
+
+Draft available soon; conditionally accepted at *The Journal of Development Economics*
+
+### Empowerment in Equilibrium: Evidence from a Taxpayer Education Program in Ghana
+*Nikhil Kumar, James Dzansi, Anders Jensen, David Lagakos, Konstantin Poensgen, Henri Telli*
+
+Draft available soon | [Pre-registration](https://www.socialscienceregistry.org/trials/15079)
 
 ## Work in Progress
 
-- **Taxpayer education program evaluation** (Ghana)
-- **Peer tutoring homogeneity effects study** (Bangalore)
-- **Dropout monitoring improvements** (Morocco)
-- **AI and crime research** (with Harvard CID)
-- **Private school expansion dynamics** (India)
+### Does Homogeneity of Learners Matter? Evidence from a Peer Tutoring Intervention in Bangalore
+*Nikhil Kumar, Palaash Bhargava, Madhavi Jha, Tarang Tripathi*
+
+Field implementation in progress
+
+### Improving Dropout Monitoring at Scale: Evidence from Morocco's Public Lower Secondary Schools
+*Nikhil Kumar, Andreas de Barros, Alejandra Campos Quintero, Paul Glewwe, Mridul Joshi*
+
+Field implementation in progress
+
+### AI and Crime
+*Nikhil Kumar, Aarushi Kalra*
+
+Funding: Harvard University Center for International Development GEM Incubation Fund 2025
+
+### Public Investments in Primary Education and the Rise of Private Schools: Evidence from India
+
+Data analysis in progress
 
 ---
 

@@ -5,25 +5,18 @@ title: Teaching
 
 <h1 class="page-title">Teaching</h1>
 
-## Instructor
+## The Economics of Infrastructure in Developing Countries, Instructor
+*Sophomore Tutorial, Fall 2024; Fall 2025*
 
-### The Economics of Infrastructure in Developing Countries
-*Sophomore Tutorial*
+## Econometric Methods II
+*Teaching Fellow for Michael Gechter*
 
-- Fall 2024
-- Fall 2025
+PhD First Year Core, Spring 2025
 
-## Teaching Fellow
+## Advanced Quantitative Methods: Causal Inference
+*Teaching Fellow for Michael Gechter*
 
-### Econometric Methods II
-*PhD First Year Core, Spring 2025*
-
-with Michael Gechter
-
-### Advanced Quantitative Methods: Causal Inference
-*MPA/ID First Year Core, Spring 2025*
-
-with Michael Gechter
+MPA/ID First Year Core, Spring 2025
 
 ---
 
