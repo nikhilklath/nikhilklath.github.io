@@ -9,8 +9,7 @@ title: Home
   </div>
   <div class="profile-info">
     <h1>Nikhil Kumar</h1>
-    <p class="title">PhD Candidate in Public Policy (Economics track)<br>Harvard University</p>
-    <p>I study human capital and socioeconomic mobility in low- and middle-income countries.</p>
+    <p>Welcome! I am a PhD candidate in Public Policy (Economics track) at Harvard University. My research focuses on human capital and socioeconomic mobility in low- and middle-income countries.</p>
   </div>
 </div>
 
@@ -21,19 +20,12 @@ title: Home
 
 ## Affiliations
 
-- Graduate student affiliate, [Institute for Quantitative Social Science](https://www.iq.harvard.edu/people/nikhil-kumar), Harvard University
-- Graduate student affiliate, [Lakshmi Mittal and Family South Asia Institute](https://mittalsouthasiainstitute.harvard.edu/people/nikhil-kumar/), Harvard University
-- Graduate student affiliate, [Center for International Development](https://www.hks.harvard.edu/centers/cid/about-cid/people/phd-affiliates/nikhil-kumar), Harvard Kennedy School
+I am a graduate student affiliate at the [Institute for Quantitative Social Science](https://www.iq.harvard.edu/people/nikhil-kumar), at the [Lakshmi Mittal and Family South Asia Institute](https://mittalsouthasiainstitute.harvard.edu/people/nikhil-kumar/) and at the [Center for International Development](https://www.hks.harvard.edu/centers/cid/about-cid/people/phd-affiliates/nikhil-kumar) at Harvard.
 
 ## Education
 
-- **PhD in Public Policy (Economics track)**, Harvard University *(in progress)*
-- **MA in Economic Policy**, Boston University
-- **BTech/MTech in Metallurgical Engineering and Materials Science**, Indian Institute of Technology (IIT) Bombay
+I completed my Master of Arts in Economic Policy from Boston University (BU) and graduated with a Bachelor and Master of Technology in Metallurgical Engineering and Materials Science from the Indian Institute of Technology (IIT) Bombay.
 
 ## Experience
 
-Prior to my PhD, I worked as a Research Assistant at:
-- Center for International Development (CID), Harvard Kennedy School
-- Department of Economics, Boston University
-- National Bureau of Economic Research (NBER)
+Before starting my graduate studies, I have worked as an RA at CID, BU and NBER in the Boston-Cambridge area.
