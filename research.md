@@ -54,4 +54,4 @@ Data analysis in progress
 
 ---
 
-For data resources useful for development research, see my curated collection: [Data Sources for Development Research](https://www.notion.so/datasources4devt/Data-Sources-for-Development-Research-77c76bb29ede4b8194e51dc5ab3a5406).
+For data resources useful for development research, see my curated collection: [Data Sources for Development Research](https://nikhil-notes.notion.site/Data-99ec1cec200c42a1b654a2e197a6a66f?pvs=4).
