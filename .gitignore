@@ -1,0 +1,38 @@
+# Jekyll build output
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Ruby/Bundler
+.bundle/
+vendor/
+Gemfile.lock
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local development
+*.log
+
+# Personal files (not part of website)
+.bash*
+.profile
+.ssh/
+.cache/
+.config/
+.local/
+.npm/
+.nvm/
+.claude*
+.motd_shown
+.sudo_as_admin_successful
+news-aggregator/
+*.csv
