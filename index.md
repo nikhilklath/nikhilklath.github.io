@@ -5,7 +5,7 @@ title: Home
 
 <div class="profile">
   <div class="profile-photo">
-    Photo
+    `<img src="/assets/profile.jpg" alt="Nikhil Kumar">`
   </div>
   <div class="profile-info">
     <h1>Nikhil Kumar</h1>
