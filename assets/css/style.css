@@ -264,3 +264,8 @@ section {
   font-style: italic;
   margin-bottom: 0.75rem;
 }
+
+/* Justified text for paper abstracts on research page */
+.abstract {
+  text-align: justify;
+}
