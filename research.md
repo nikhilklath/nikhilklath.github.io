@@ -19,14 +19,10 @@ Draft available upon request: [Pre-registration](https://www.socialscienceregist
 
 Draft available upon request: [Pre-registration](https://osf.io/g54kd)
 
-<p class="abstract">We investigate whether a government-led, whole-school reform in public lower secondary schools can simultaneously reduce dropout and improve both academic and socioemotional outcomes. We employ a prospective difference-in-differences design, matching 200 reform schools in Morocco to 100 comparable schools using machine learning on nationwide administrative data. The analysis combines primary assessment data for 20,036 students with enrollment records for 637,587 observations. After one year, the reform reduced end-of-year dropout by 1.6 percentage points (a 31.4 percent decline), increased learning by 0.52 standard deviations (a 3.3-fold acceleration), and improved a pre-specified index of socioemotional skills by 0.22 standard deviations. These findings demonstrate that government-led interventions can deliver multidimensional benefits during the critical lower secondary school years and highlight the potential of whole-school reform to support adolescent development.</p>
-
 ### Developing Socioemotional Skills in Early Adolescence: Evidence from Morocco's Public Lower Secondary Schools
 *with [Andreas de Barros](https://de-barros.com/), [Alejandra Campos Quintero](https://www.tc.columbia.edu/doctoral-student-profiles/profiles/campos-quintero-2518.php), [Paul Glewwe](https://apec.umn.edu/people/paul-glewwe), [Laure Léphine](https://www.povertyactionlab.org/person/lepine-0)*
 
 Draft available soon: Conditionally accepted at *The Journal of Development Economics*
-
-<p class="abstract">We experimentally evaluate the effectiveness of a socioemotional support intervention in public schools in Morocco. Implemented as part of a broader school reform, the intervention trains and equips social specialists in schools to give workshops in small classes for students in the first and second grades of lower secondary education. The intervention aims to develop students' intrapersonal and interpersonal skills, and ultimately improve student learning and reduce student dropout. Our study contributes to the evidence base on school-based socioemotional interventions in low- and lower middle-income countries.</p>
 
 ### Empowerment in Equilibrium: Evidence from a Taxpayer Education Program in Ghana
 *with [James Dzansi](https://www.theigc.org/people/james-dzansi), [Anders Jensen](https://www.andersditlevjensen.com/), [David Lagakos](https://davidlagakos.io/), [Konstantin Poensgen](https://konstantinpoensgen.github.io/), [Henri Telli](https://www.theigc.org/people/henry-telli)*
